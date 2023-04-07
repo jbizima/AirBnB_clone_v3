@@ -164,7 +164,7 @@ Version 2:
 * Okeke Makuochukwu - [Github](https://github.com/Makuo67)
  
   
- Version 3:
+ Version 1:
 * Joshua Bizima - [Github](https://github.com/jbizima)   
 * Marcel Sibomana - [Github](https://github.com/meekmarcelin)
   
