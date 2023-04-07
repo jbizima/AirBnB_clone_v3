@@ -154,9 +154,19 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
-Version 3
-*Joshua Bizima - [Github](https://github.com/jbizima)   
-*Christabel Ayibadoubra Adams - [Github](https://github.com/ChristabelD)
+Version 3:
+* Joshua Bizima - [Github](https://github.com/jbizima)   
+* Christabel Ayibadoubra Adams - [Github](https://github.com/ChristabelD)
 
+ 
+Version 2:
+* Joshua Bizima - [Github](https://github.com/jbizima)   
+* Okeke Makuochukwu - [Github](https://github.com/Makuo67)
+ 
+  
+ Version 3:
+* Joshua Bizima - [Github](https://github.com/jbizima)   
+* Marcel Sibomana - [Github](https://github.com/meekmarcelin)
+  
 ## License
 Public Domain. No copy write protection. 
