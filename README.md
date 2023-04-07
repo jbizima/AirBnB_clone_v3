@@ -154,8 +154,9 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
-Joshua Bizima - [Github](https://github.com/jbizima)   
-Christabel Ayibadoubra Adams - [Github](https://github.com/ChristabelD)
+Version 3
+*Joshua Bizima - [Github](https://github.com/jbizima)   
+*Christabel Ayibadoubra Adams - [Github](https://github.com/ChristabelD)
 
 ## License
 Public Domain. No copy write protection. 
